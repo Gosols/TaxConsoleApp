@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "G/7s7SQp9xQgbuIkPyNlv8bEiZNJQeq8KGPezcx7VgH3AqjKwcDpLs7agrtZ3ZGH8TlfX/EddryGYxeJySA23w==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\Verosofta\\Verosofta\\Verosofta.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\teemu\\.nuget\\packages\\htmlagilitypack\\1.11.33\\htmlagilitypack.1.11.33.nupkg.sha512",
+    "C:\\Users\\teemu\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

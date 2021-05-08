@@ -1,0 +1,16 @@
+C:\Repos\Verosofta\Verosofta\bin\Debug\netcoreapp3.1\Verosofta.exe
+C:\Repos\Verosofta\Verosofta\bin\Debug\netcoreapp3.1\Verosofta.deps.json
+C:\Repos\Verosofta\Verosofta\bin\Debug\netcoreapp3.1\Verosofta.runtimeconfig.json
+C:\Repos\Verosofta\Verosofta\bin\Debug\netcoreapp3.1\Verosofta.runtimeconfig.dev.json
+C:\Repos\Verosofta\Verosofta\bin\Debug\netcoreapp3.1\Verosofta.dll
+C:\Repos\Verosofta\Verosofta\bin\Debug\netcoreapp3.1\Verosofta.pdb
+C:\Repos\Verosofta\Verosofta\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Repos\Verosofta\Verosofta\obj\Debug\netcoreapp3.1\Verosofta.csprojAssemblyReference.cache
+C:\Repos\Verosofta\Verosofta\obj\Debug\netcoreapp3.1\Verosofta.AssemblyInfoInputs.cache
+C:\Repos\Verosofta\Verosofta\obj\Debug\netcoreapp3.1\Verosofta.AssemblyInfo.cs
+C:\Repos\Verosofta\Verosofta\obj\Debug\netcoreapp3.1\Verosofta.csproj.CoreCompileInputs.cache
+C:\Repos\Verosofta\Verosofta\obj\Debug\netcoreapp3.1\Verosofta.csproj.CopyComplete
+C:\Repos\Verosofta\Verosofta\obj\Debug\netcoreapp3.1\Verosofta.dll
+C:\Repos\Verosofta\Verosofta\obj\Debug\netcoreapp3.1\Verosofta.pdb
+C:\Repos\Verosofta\Verosofta\obj\Debug\netcoreapp3.1\Verosofta.genruntimeconfig.cache
+C:\Repos\Verosofta\Verosofta\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
